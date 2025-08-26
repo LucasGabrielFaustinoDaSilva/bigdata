@@ -1,0 +1,1001 @@
+id,nome,idade,sexo,estado,renda_mensal
+1,Theo da Mota,40,M,AL,12861.19
+2,Sarah Aragão,24,M,AM,5683.18
+3,Nicole Sales,62,M,AC,8380.05
+4,Dr. Matheus Gonçalves,60,M,RR,8020.41
+5,Aurora da Rocha,71,M,AC,9789.9
+6,Kevin Novais,33,F,MS,5388.01
+7,Thales Silveira,36,M,AC,12740.44
+8,Ana Clara Teixeira,56,M,RR,2876.78
+9,José Pedro Pereira,63,F,AC,15069.32
+10,Valentim Sousa,77,M,AC,19826.3
+11,Oliver das Neves,65,M,RS,14539.99
+12,Bento Andrade,52,M,PE,2578.8
+13,Enzo Gabriel Albuquerque,37,M,SP,17429.37
+14,Evelyn Fonseca,74,F,MT,1112.5
+15,Luísa Rios,49,M,SE,19373.8
+16,Ana Sophia Pastor,72,M,PB,7005.85
+17,Luiz Fernando Marques,54,M,SP,18458.38
+18,Benicio Moreira,69,F,AC,15270.6
+19,Gael Henrique Fernandes,52,M,SP,1096.01
+20,Mateus Silva,76,M,PA,11887.83
+21,Otávio Casa Grande,34,M,BA,11211.08
+22,Levi Sales,48,F,PA,8580.82
+23,Maria Sophia Cavalcanti,76,F,AC,3037.51
+24,Pedro Miguel Duarte,85,F,AC,6886.29
+25,Paulo Albuquerque,88,F,BA,7063.27
+26,Sr. Luiz Miguel Pastor,39,M,PA,19160.92
+27,Sra. Heloísa Barbosa,36,F,AC,11231.71
+28,Josué Araújo,48,M,RN,7397.55
+29,Josué Castro,78,F,PB,16290.22
+30,Benício Mendes,18,M,AP,17999.27
+31,Davi Lucas da Rosa,56,M,RS,9244.22
+32,Joaquim Pastor,90,M,CE,17338.67
+33,Dra. Maria Helena Correia,67,M,RR,5606.46
+34,Kevin Pacheco,37,F,PR,16764.27
+35,Dra. Milena Cavalcante,88,F,PE,12644.33
+36,Joaquim da Mota,39,M,PB,15234.57
+37,Bianca Moura,62,F,SP,7254.93
+38,Mariana Macedo,30,M,RS,6412.9
+39,Julia Nogueira,58,M,MA,14244.43
+40,Dr. Thiago das Neves,84,F,CE,16160.14
+41,Ana Vitória Santos,88,F,SP,13414.3
+42,Sr. Igor Pires,44,F,ES,18985.54
+43,Lorenzo Albuquerque,40,F,ES,16392.41
+44,Ísis Sá,38,F,AC,13945.03
+45,Davi Miguel Aragão,74,M,PE,17699.15
+46,Josué Moraes,86,M,TO,8893.16
+47,Isabela Mendes,62,M,SP,18721.14
+48,Hellena Fernandes,50,F,MG,18490.36
+49,Luiz Miguel da Costa,57,F,CE,8920.98
+50,Pietro Monteiro,65,M,SP,1762.96
+51,Sara da Rosa,40,F,PI,2818.94
+52,Emilly Monteiro,31,M,SP,1028.84
+53,Eloah Costa,36,M,BA,18739.95
+54,Sr. Oliver Barbosa,59,M,RO,10040.09
+55,Sophie Mendonça,62,F,RO,5104.59
+56,João Guilherme Pacheco,87,M,AL,3577.14
+57,Enzo Sá,54,F,SP,3639.58
+58,Alexia da Mata,67,F,MS,16337.67
+59,Dr. Luiz Fernando Nascimento,22,M,PB,18392.7
+60,Sr. Léo Pastor,82,M,SP,9955.4
+61,Caroline Novais,27,M,BA,4863.41
+62,Renan Gonçalves,70,F,AC,3059.07
+63,Ana Laura Sales,50,F,AM,15805.32
+64,Valentina Moura,31,M,MA,13692.4
+65,Enzo Gabriel Moura,54,M,MS,19768.86
+66,João Miguel Vargas,58,M,SC,13778.71
+67,Calebe Campos,83,M,RO,14266.99
+68,Gabriel Pereira,86,M,RN,12490.42
+69,Maria Helena Carvalho,22,M,RN,5447.18
+70,Aurora Barros,49,F,RJ,9015.16
+71,Cauê Sampaio,69,M,RO,19169.71
+72,Luiz Miguel Oliveira,77,F,RO,7703.77
+73,Alice da Cruz,71,M,PA,16242.03
+74,Fernando Pacheco,60,M,GO,9722.14
+75,Augusto Casa Grande,69,F,DF,8189.44
+76,Luan Aparecida,42,M,RJ,12637.98
+77,Gabrielly Lima,32,M,TO,12388.17
+78,Ravi Lucca Rezende,52,M,SE,19327.77
+79,Lucas das Neves,60,F,PB,8575.41
+80,Isadora Rocha,40,F,PI,13387.51
+81,Diego da Cunha,46,F,AM,8565.74
+82,Samuel da Rosa,21,M,AC,9770.42
+83,Maria Júlia Jesus,35,F,MS,17550.22
+84,Ágatha Sá,71,F,MT,12708.73
+85,Otto Pereira,51,F,RS,5429.03
+86,José Miguel Silveira,77,M,AM,12467.63
+87,Dra. Maria Vitória Azevedo,41,M,MS,14892.5
+88,Milena Fogaça,70,F,RS,2170.53
+89,Dr. Arthur Gabriel Aparecida,34,F,RJ,14421.26
+90,Gael Henrique Cassiano,89,F,RR,16168.96
+91,Nathan Silveira,85,M,PA,10679.48
+92,Henry Gabriel Ribeiro,19,M,RN,7562.17
+93,Pietro Nascimento,18,F,SE,8477.52
+94,Ana Beatriz da Rosa,43,M,SP,8620.69
+95,Fernando Novais,21,M,TO,13013.22
+96,Carlos Eduardo Guerra,39,F,SE,18475.45
+97,Lucas Gabriel Ferreira,81,M,SE,16642.02
+98,Léo Sá,70,F,AP,1153.26
+99,Maria Cecília Moreira,27,M,RR,13475.34
+100,Emanuella Vieira,27,M,BA,5706.2
+101,Matheus Viana,60,F,SC,1918.46
+102,Carolina Rios,69,F,RJ,12589.63
+103,João Gabriel Alves,81,M,MT,11551.02
+104,Stephany Fernandes,87,M,CE,6498.58
+105,Maya Câmara,36,F,RN,7698.2
+106,Dra. Eloah da Rocha,25,F,TO,15063.54
+107,Caleb Aparecida,23,F,AM,6409.45
+108,Sr. Arthur Miguel Barbosa,36,F,PA,6776.37
+109,Davi Freitas,60,F,PE,15786.98
+110,Dra. Sophie Brito,78,F,RJ,3943.27
+111,Benício Garcia,59,F,RS,7443.26
+112,Sra. Luísa Rocha,28,F,SE,16841.29
+113,Benicio Cirino,46,F,MS,2451.15
+114,Lorenzo da Rosa,20,M,PR,17092.44
+115,Srta. Giovanna Nascimento,50,F,RO,6778.3
+116,Stella Sampaio,51,F,SE,18570.62
+117,André da Costa,31,M,SC,13080.33
+118,Enzo Farias,46,M,ES,11660.44
+119,Maria Julia Correia,54,M,BA,17867.94
+120,Bernardo Siqueira,35,F,AP,10458.12
+121,Clara Dias,52,F,PR,8850.72
+122,Cauã Nunes,36,F,AC,14676.28
+123,Eloá Gomes,39,M,SE,10974.66
+124,Ana Carolina Caldeira,41,F,BA,15986.31
+125,Juan Nogueira,23,F,RN,9020.45
+126,Sr. Vitor Ferreira,66,M,SP,7468.64
+127,Rodrigo Ribeiro,59,F,PA,3785.46
+128,Dom Cavalcanti,41,F,RJ,11467.35
+129,Enzo Gabriel Pereira,67,F,CE,6976.15
+130,João Miguel Oliveira,68,M,TO,5531.57
+131,Sr. Marcelo Lima,35,M,CE,5117.19
+132,Felipe Melo,43,F,SC,11357.61
+133,Maria Cecília Almeida,66,M,PE,16465.71
+134,Isaque Rezende,81,F,PB,5875.41
+135,Rael Fogaça,32,M,SE,13905.54
+136,Dante Santos,75,M,BA,7352.14
+137,Otávio Vasconcelos,83,F,TO,13495.09
+138,Maria Flor da Cunha,25,F,RJ,11318.53
+139,Gustavo Oliveira,47,M,RO,14908.35
+140,Sr. Lorenzo Vasconcelos,88,F,SC,15566.53
+141,Raul Lima,40,M,GO,18074.22
+142,Sr. Vitor Rocha,56,F,RJ,9417.01
+143,Amanda Pinto,86,F,RJ,6444.73
+144,Emanuella Vargas,57,F,GO,11650.79
+145,Isabella Costa,42,F,AP,6391.64
+146,Lorenzo Brito,45,F,MA,13111.58
+147,Caleb Ribeiro,73,M,PB,11056.34
+148,Diogo Ribeiro,76,M,AC,2492.58
+149,Bruna Marques,83,M,SP,5044.18
+150,Rhavi Fogaça,64,M,AP,6167.48
+151,Davi Lucas da Costa,22,F,MG,18505.05
+152,Guilherme Vieira,45,M,MT,5094.78
+153,Ana Liz Cavalcante,58,F,RJ,16176.44
+154,Sra. Ana Lívia Mendonça,44,M,CE,10095.15
+155,Maria Sophia Vargas,76,F,PE,19981.81
+156,Ana Luiza Ramos,81,F,MG,3650.53
+157,Apollo Mendes,42,F,TO,11001.21
+158,Isaac Azevedo,57,M,RJ,17895.34
+159,Sabrina da Mata,50,M,RS,19282.33
+160,Sra. Emanuelly Azevedo,90,M,MT,16530.21
+161,Maria Sophia Sampaio,44,M,PB,5646.59
+162,Ágatha Aparecida,36,F,ES,13180.2
+163,Liz Cirino,54,M,BA,3287.16
+164,Lorenzo Pereira,84,F,RN,3525.7
+165,Sra. Sophia da Cunha,71,F,PB,10074.99
+166,Marina Almeida,78,M,AL,11256.11
+167,Luana das Neves,83,M,MG,19770.35
+168,Srta. Ana Fernandes,55,F,CE,7600.42
+169,Srta. Ester Nunes,22,F,PA,10871.12
+170,Sra. Luara Pimenta,90,F,RN,9563.36
+171,Alexia Nogueira,79,F,PA,8550.9
+172,João Lucas Fogaça,19,F,BA,3419.78
+173,Isaac Campos,26,F,AL,16657.66
+174,Alexia Jesus,58,M,RN,16857.05
+175,Ian Carvalho,52,M,PB,9549.57
+176,Henry da Costa,82,F,TO,4996.56
+177,Liz da Luz,79,M,BA,10363.1
+178,Manuela Mendonça,87,M,GO,3783.93
+179,Carolina Vargas,33,F,SC,13072.63
+180,Kevin Sales,85,F,TO,3404.19
+181,Melina Castro,51,M,RS,13325.19
+182,Marcos Vinicius Viana,29,F,AP,14647.46
+183,Sra. Camila Nascimento,86,F,AL,18346.04
+184,Luiz Gustavo Novais,73,M,PE,6103.89
+185,Vitória Silva,44,M,PE,4143.43
+186,Sra. Luana Moraes,47,F,RN,13998.43
+187,Ana Sophia Moreira,61,M,CE,9301.3
+188,Cauê Fernandes,30,M,TO,10777.79
+189,Ana Clara Castro,53,M,TO,13700.32
+190,Dr. Antônio Duarte,31,F,MG,16305.38
+191,Arthur Miguel Cunha,89,F,PB,12937.43
+192,Sr. Murilo Cunha,63,F,MS,4112.0
+193,Srta. Heloisa Correia,48,M,AL,9728.56
+194,Ana Vitória Mendes,72,F,AL,17429.71
+195,Carolina Borges,71,F,PI,10678.02
+196,Sr. Davi Miguel Campos,28,M,RR,6257.94
+197,Sr. Pietro Novaes,90,F,AC,15252.81
+198,Rodrigo Peixoto,25,M,TO,3393.98
+199,Allana Barbosa,35,F,DF,5235.51
+200,Amanda Nunes,56,F,MA,15761.45
+201,Maria Julia da Rocha,90,M,AL,1898.94
+202,Dra. Alexia Melo,72,M,AC,4883.95
+203,Maria Sophia Correia,89,M,PA,2496.25
+204,Caio Ramos,19,M,PB,12565.23
+205,Brayan Castro,85,M,MT,2565.52
+206,Theo Martins,65,M,RO,14309.88
+207,Sr. Felipe Teixeira,18,F,MT,5150.43
+208,Isabela Borges,48,M,RN,3444.52
+209,Vitor Hugo Jesus,55,M,RJ,14964.91
+210,Nina Cavalcanti,72,M,RS,9501.64
+211,Sra. Agatha Silveira,78,M,CE,14992.7
+212,João Vitor Fonseca,30,F,ES,19064.72
+213,Igor Freitas,19,F,SE,13078.87
+214,Rael Melo,67,F,PA,2606.92
+215,Isaac Costa,39,M,PA,14612.03
+216,Olívia Correia,75,F,MS,16026.32
+217,Laura Nunes,89,M,GO,9602.5
+218,Luiz Henrique da Luz,51,M,TO,1885.55
+219,Vinícius da Mota,25,F,MS,14354.72
+220,Beatriz Teixeira,41,F,BA,6801.7
+221,Alana Moraes,85,F,RJ,11846.08
+222,Pedro Henrique Camargo,65,M,SC,11891.63
+223,Luiz Otávio Casa Grande,74,M,RS,15848.27
+224,Emanuelly Cassiano,43,F,RN,1178.42
+225,Oliver Lima,55,M,PI,16098.1
+226,Antônio Jesus,80,M,RJ,7168.93
+227,João Vitor Casa Grande,88,M,RJ,11344.03
+228,Theodoro Guerra,66,M,PI,9694.03
+229,Sra. Emanuella Fernandes,70,F,MS,16110.79
+230,Dra. Heloisa da Paz,59,M,AC,3905.62
+231,Ágatha Gomes,33,F,MA,7152.85
+232,Emanuelly Azevedo,40,M,RJ,10319.34
+233,Ana Julia Ribeiro,29,F,PA,14557.73
+234,Dr. Marcos Vinicius Aragão,47,M,AP,3350.44
+235,Juan Alves,52,M,AM,6587.62
+236,Diego da Cruz,49,M,RR,14590.07
+237,Dra. Maria Fernanda Moreira,84,M,BA,10560.39
+238,Valentim Ferreira,47,F,PE,19807.93
+239,Fernando Cassiano,41,F,RS,16635.32
+240,Emanuelly Câmara,43,M,BA,8008.73
+241,Anthony Gabriel Souza,36,M,PA,19269.57
+242,Ester Nunes,23,M,AC,6886.74
+243,Laís Fernandes,64,F,AC,14849.83
+244,Jade Vieira,45,F,MT,14431.59
+245,João Guilherme Brito,64,M,PB,3217.88
+246,Maria Cecília Melo,40,F,AL,1858.86
+247,Isabelly Barros,33,M,RJ,16102.2
+248,Amanda Gonçalves,60,F,SE,17860.36
+249,Thales Cirino,90,F,RR,14980.07
+250,Maria Viana,32,F,CE,5345.38
+251,Sabrina Mendonça,71,M,DF,1838.39
+252,Liam Sá,18,M,SP,13899.11
+253,Sr. Igor Novais,65,F,RN,11243.07
+254,Isaque Guerra,71,F,RR,4827.07
+255,Caio Sales,85,M,AM,12824.44
+256,Isabella Almeida,30,F,MG,3722.56
+257,Lorenzo da Rocha,71,F,AL,19125.81
+258,Eduarda Aragão,60,F,BA,7057.76
+259,Liz Marques,81,M,GO,12666.34
+260,Dra. Isabelly Almeida,83,M,AP,10932.78
+261,Luana das Neves,88,M,SP,16839.65
+262,Bianca da Mota,36,M,PI,5141.07
+263,Srta. Sofia Machado,26,M,PE,2239.6
+264,Liam da Costa,22,M,MA,8242.01
+265,Bryan Andrade,62,M,PB,19764.67
+266,Maria Liz Novais,66,M,MT,1402.12
+267,Henry Gabriel Sampaio,40,M,PA,7102.48
+268,Luiz Henrique Borges,18,F,MS,14816.77
+269,Thales Correia,76,F,MG,18965.46
+270,Luiz Felipe Farias,65,F,RO,8568.58
+271,Emilly Dias,69,F,RN,5959.62
+272,Alana Cavalcanti,18,M,RN,6920.88
+273,Emilly da Costa,76,M,AL,15685.1
+274,Dra. Amanda Moreira,64,M,PR,15939.21
+275,Léo Camargo,55,F,AC,9223.5
+276,Alice da Paz,36,M,RN,14244.96
+277,Anthony Lopes,53,F,ES,17672.44
+278,Lara Farias,87,M,MT,12265.07
+279,Alana Cardoso,88,F,RS,15709.07
+280,Rafaela Cardoso,65,F,GO,15704.14
+281,Bruna Silva,77,M,MA,19881.91
+282,Maria Julia Abreu,34,M,BA,5514.76
+283,Thales Pereira,70,F,AM,7412.36
+284,Leandro Farias,35,F,BA,9523.52
+285,Helena Almeida,46,M,MS,3841.61
+286,Júlia Brito,57,F,SC,8371.71
+287,Dr. Pedro Miguel Farias,62,M,CE,18741.44
+288,Ravy Mendes,70,M,RS,15343.49
+289,Dr. Anthony Macedo,63,M,SE,10793.81
+290,Vinícius Lopes,84,F,MT,13195.52
+291,Erick Ribeiro,58,F,MA,13861.53
+292,Sra. Maria Alice da Costa,87,M,RS,2790.64
+293,Carlos Eduardo Nascimento,67,F,ES,18051.17
+294,Sr. Anthony Gabriel Abreu,86,M,PI,2146.24
+295,Bruno da Rosa,27,M,MS,13448.94
+296,Lívia Nascimento,56,M,AL,19190.91
+297,Letícia Vieira,35,M,RJ,7786.49
+298,Rodrigo Cavalcante,76,M,AC,9920.78
+299,Henry Moraes,89,F,RS,11442.21
+300,Sra. Clarice Fogaça,89,F,RR,13182.48
+301,Dra. Maria Liz Sampaio,58,F,RO,6494.77
+302,Isaac Moura,70,F,ES,11016.01
+303,Laís Cardoso,24,F,RR,13105.13
+304,Cecilia Mendonça,71,M,MG,10699.26
+305,Laura Pereira,82,F,RO,18884.13
+306,Maya da Mota,71,M,DF,6320.89
+307,Sr. João Miguel da Mata,89,M,RR,5513.57
+308,Sr. Oliver Abreu,77,M,DF,10627.07
+309,Heloísa Jesus,73,M,RN,9306.55
+310,Miguel Nogueira,78,M,SC,13515.23
+311,Emanuel Jesus,65,F,AC,8232.72
+312,Ana Clara Silva,51,M,RN,3170.55
+313,Sabrina Machado,52,M,MT,14297.82
+314,Davi Lucas Barbosa,57,M,PE,8866.27
+315,Ana Carolina Cardoso,83,M,PR,13396.81
+316,Isabelly Araújo,50,F,GO,2495.6
+317,Yago Fonseca,66,M,RN,10090.09
+318,Rafael Pastor,71,F,CE,15488.03
+319,Sra. Beatriz Nogueira,53,M,RJ,10520.96
+320,Ana Clara Santos,33,F,TO,14122.33
+321,Pietra Almeida,81,F,MA,19150.96
+322,Gustavo Moraes,86,M,MA,14076.81
+323,Dr. Ravi Aparecida,82,M,SP,11391.06
+324,Nina Fogaça,40,M,PR,19078.09
+325,Sra. Ana Júlia Borges,52,M,AP,19580.49
+326,Clara Camargo,46,M,AC,4531.78
+327,Mirella Sales,54,F,MT,3788.32
+328,Joaquim da Costa,37,M,ES,16702.52
+329,Bella Gomes,61,M,SE,13198.1
+330,Cecília da Paz,26,F,PE,6840.76
+331,Dra. Sofia da Cruz,87,M,AM,10184.01
+332,Dra. Manuela Moraes,48,M,RJ,17619.44
+333,Isabella Cardoso,37,F,PI,18945.03
+334,Dra. Mirella Novaes,36,F,AL,5778.25
+335,André Ramos,39,M,PR,12557.64
+336,Luiz Gustavo Moura,42,M,RN,12594.53
+337,Bento Martins,81,M,MS,10552.51
+338,Liz Monteiro,33,F,ES,9078.61
+339,André Pastor,55,F,PE,18713.94
+340,Ana Carolina Pastor,21,M,MA,12705.0
+341,João Lucas Barros,32,M,ES,19974.81
+342,Bianca Azevedo,86,F,MA,19723.63
+343,Srta. Sabrina Nogueira,41,M,AL,6326.14
+344,Dom da Cunha,64,M,ES,4483.89
+345,Caleb Câmara,39,M,AL,1484.99
+346,Isaque Sousa,19,F,MT,10154.4
+347,Francisco Novaes,47,M,RO,17751.45
+348,Gabriel Moura,71,F,AL,17518.5
+349,Manuela Gonçalves,35,F,SE,12027.74
+350,Olívia da Mota,70,F,MA,5880.72
+351,Sr. José Abreu,26,M,RS,12359.13
+352,Anthony Silveira,78,F,CE,3969.8
+353,Sara da Conceição,29,F,TO,17862.62
+354,Dra. Eloah Gonçalves,25,M,RS,16671.89
+355,Pietra Dias,56,F,RS,5738.79
+356,Otto Ferreira,18,F,PB,15568.89
+357,Ísis da Rosa,37,F,AP,8068.1
+358,Luiz Fernando Montenegro,57,F,MG,2792.13
+359,Guilherme Sá,85,F,RO,7031.46
+360,Lorena Camargo,67,F,BA,4952.7
+361,Isabel Moreira,76,F,MT,3886.82
+362,Sra. Lavínia Barros,79,M,TO,8042.18
+363,Dra. Luara Almeida,25,F,GO,3427.52
+364,Bárbara Pacheco,89,F,PR,14970.03
+365,Sophia da Cruz,57,F,CE,8135.51
+366,Enzo Nascimento,43,F,MG,6656.22
+367,Dr. Rhavi Vargas,61,F,BA,19169.62
+368,Srta. Joana Pimenta,42,F,RN,5577.42
+369,Yuri Moura,46,M,ES,14457.46
+370,Lucas Macedo,66,F,AP,11065.27
+371,Ana Lívia Dias,20,M,AM,1324.95
+372,Lucas Cavalcanti,67,F,MS,6465.94
+373,Otávio Oliveira,78,F,PE,5631.57
+374,Luna das Neves,62,M,RR,3900.39
+375,André Machado,58,F,RS,1028.48
+376,Ana Beatriz Peixoto,70,F,DF,10726.95
+377,Dr. Emanuel Melo,36,F,CE,7375.79
+378,Bryan Nascimento,51,F,AL,4602.77
+379,Arthur Gabriel Farias,25,F,RJ,10488.8
+380,Pedro Henrique Barbosa,38,F,DF,2898.74
+381,Luiz Felipe Barros,76,F,CE,14361.73
+382,Felipe Farias,21,F,MS,13693.31
+383,Maria Liz Cassiano,50,F,RR,5249.57
+384,Beatriz Fogaça,20,F,PB,19685.27
+385,Srta. Ester da Luz,60,F,RJ,3224.88
+386,Gustavo da Mota,26,M,PE,14488.43
+387,Isabela Caldeira,22,F,RS,5486.23
+388,Sr. Bernardo da Costa,83,M,ES,4610.08
+389,Sr. Benjamim Santos,30,F,DF,5460.67
+390,Marcos Vinicius Nogueira,34,M,SE,6971.15
+391,Stella Fonseca,32,M,SP,15449.53
+392,Luigi Andrade,20,M,AP,8517.96
+393,Sr. Rhavi Guerra,70,M,RR,8160.17
+394,Luiz Henrique Farias,45,M,TO,14148.73
+395,Gustavo Henrique Cirino,22,M,SE,15884.13
+396,Daniel Macedo,74,F,PB,9841.1
+397,Ana Lívia Guerra,19,M,RJ,4315.35
+398,João Guilherme Macedo,38,F,MA,13082.53
+399,Davi Lucca Aparecida,55,M,MG,14369.71
+400,Beatriz Silva,22,M,MT,9345.8
+401,Calebe Sampaio,27,M,SC,8707.67
+402,José Pedro Silveira,76,M,AM,15888.09
+403,Sara Freitas,86,F,BA,7900.21
+404,Levi da Costa,90,M,MG,12599.44
+405,Laura Ferreira,32,M,MS,1396.9
+406,Murilo Borges,24,M,PR,8390.86
+407,Theo Pires,22,F,MS,6837.47
+408,Dra. Lunna Leão,42,M,MS,5645.31
+409,Sr. Marcelo Guerra,79,F,DF,19542.02
+410,Sra. Mariane Abreu,72,F,PI,17223.61
+411,Dr. Vinicius Abreu,24,F,MG,6295.72
+412,Júlia da Costa,39,F,AM,2705.24
+413,Hadassa Cunha,76,M,SC,7623.44
+414,Maria Laura Garcia,56,M,BA,14992.4
+415,Ana Júlia da Mata,77,F,MA,13010.9
+416,Isis Aparecida,60,M,RJ,9462.46
+417,Juliana Santos,52,M,SC,16037.74
+418,Maria Alice Araújo,34,F,CE,8404.16
+419,Alice Alves,64,F,MA,15790.14
+420,Maria Vitória Aparecida,26,F,MT,14723.94
+421,Laís Rezende,85,M,RJ,7837.76
+422,Ayla Rocha,78,F,ES,6514.14
+423,Sara Pacheco,86,M,MA,6750.19
+424,Maria Isis Rezende,37,F,SC,17232.52
+425,Luiz Felipe Pacheco,57,F,PA,15931.59
+426,Enzo Gonçalves,87,F,PA,12185.06
+427,Murilo Pires,67,F,SE,3920.21
+428,Rhavi Moreira,52,F,PE,7931.9
+429,Raul Duarte,79,F,BA,9939.87
+430,Rodrigo Camargo,25,F,MS,10787.58
+431,Maria Alice Porto,58,M,AL,17412.01
+432,Alexandre Ferreira,50,M,ES,16622.39
+433,Davi Lucas Vasconcelos,60,M,SE,16247.28
+434,Bento Aragão,25,F,RS,13922.29
+435,Bárbara Pereira,25,M,CE,4573.0
+436,Marcos Vinicius das Neves,72,M,DF,1169.82
+437,Maria Helena Santos,90,F,PA,14832.37
+438,Sr. Theodoro Casa Grande,71,M,RJ,7679.12
+439,Davi Luiz Novaes,76,M,SE,3275.27
+440,Maria Clara Teixeira,22,F,MG,7512.39
+441,Milena Martins,52,F,AL,4267.34
+442,Diego Montenegro,19,F,PR,16482.21
+443,Ana Liz Cirino,68,F,ES,11695.76
+444,Maria Isis da Paz,74,M,SP,14648.92
+445,Matteo da Rosa,36,F,AM,8581.36
+446,Calebe Duarte,74,F,AP,10930.69
+447,Maria Luiza Montenegro,70,F,RR,12609.81
+448,Elisa Barbosa,78,F,MA,5873.13
+449,Henry Casa Grande,67,M,PA,12201.26
+450,Matteo Ramos,70,M,RO,13254.51
+451,Antonella Dias,31,F,MG,15812.01
+452,Ana Lívia Fogaça,39,M,AC,2020.89
+453,Srta. Larissa Vargas,35,F,PI,12241.21
+454,Caroline Vargas,51,F,PI,16186.44
+455,Evelyn Viana,42,M,PA,17985.69
+456,Juan da Luz,46,F,DF,4487.68
+457,Stella Vasconcelos,32,M,PR,8364.31
+458,Enzo Montenegro,53,M,PB,17064.19
+459,Mateus Mendonça,27,M,BA,1131.73
+460,Ana Lívia Vieira,27,M,RJ,15426.81
+461,Aylla Oliveira,48,F,SE,9855.49
+462,Allana Rios,22,F,DF,19622.84
+463,Maria Júlia da Rocha,27,M,DF,14221.24
+464,Milena Nascimento,71,F,PB,11168.61
+465,Zoe da Mota,66,M,RN,12066.33
+466,Diego Melo,63,F,PI,11621.89
+467,Larissa Pires,82,M,RO,10429.5
+468,Mateus Novaes,18,M,MS,16075.57
+469,Pedro Henrique Cardoso,86,F,GO,17155.8
+470,Emanuelly Rezende,77,F,AP,18392.91
+471,Diego Silva,83,M,RR,13783.32
+472,Rhavi da Luz,67,F,AC,16441.02
+473,Ana Nascimento,59,F,PE,14310.84
+474,Sra. Ana Beatriz Campos,29,M,PE,6174.25
+475,Rebeca Pacheco,46,F,RO,15022.34
+476,Stella Barros,45,F,RO,10066.79
+477,Gabriela Duarte,64,M,GO,16749.64
+478,Sr. Pedro Henrique Moreira,55,M,RR,4709.61
+479,Sophia Moreira,37,F,PI,10629.72
+480,Maysa Aragão,78,M,GO,7681.38
+481,Eduardo Cavalcante,22,M,ES,1868.7
+482,Gael Mendes,51,M,MA,11061.13
+483,Juliana Machado,53,M,SP,16401.65
+484,Sra. Ana Cecília Mendonça,58,M,DF,19521.95
+485,Mirella da Conceição,40,F,PA,8452.23
+486,Alana Siqueira,57,F,AP,6033.11
+487,Davi Ferreira,61,M,ES,19604.59
+488,Juan Alves,49,F,AP,8661.99
+489,José da Mata,89,M,SE,12797.68
+490,Enrico Nogueira,82,F,RJ,12358.89
+491,Ayla Ribeiro,43,M,RN,15812.48
+492,Vicente da Mota,49,M,CE,3972.92
+493,Calebe Siqueira,60,M,SP,6907.43
+494,Sr. Bento Marques,80,F,PE,8556.14
+495,Sr. Gael Albuquerque,65,F,PE,8474.27
+496,Esther Sampaio,22,F,SC,7114.16
+497,Srta. Stephany Ferreira,62,M,MT,4410.94
+498,Otávio Martins,70,M,TO,2932.07
+499,Heloísa Novais,37,M,RR,13287.05
+500,Carlos Eduardo da Mata,88,F,PI,7510.8
+501,Marcela Aragão,68,F,RO,17514.44
+502,Olívia da Mata,81,F,AL,4778.17
+503,Srta. Natália Sampaio,73,M,SC,17369.69
+504,Arthur Cunha,85,F,GO,14773.57
+505,Calebe Oliveira,56,F,AC,17648.0
+506,Luiz Henrique Souza,80,M,PR,2428.22
+507,Dr. Kaique Sampaio,68,M,AC,6251.11
+508,Davi Luiz da Paz,65,M,GO,3491.28
+509,Maysa Novaes,76,F,RO,18810.71
+510,Léo Rios,27,M,RR,12037.2
+511,Alexandre Sampaio,44,M,DF,1678.21
+512,Dr. Antony Campos,78,F,PI,1120.76
+513,Leonardo Teixeira,66,M,DF,6486.28
+514,Calebe da Cruz,32,M,RR,18045.13
+515,Maria Luiza Aragão,75,F,SC,14648.66
+516,João Lucas Montenegro,85,M,ES,8912.44
+517,Noah Farias,27,M,SE,5295.93
+518,Antônio Casa Grande,47,F,CE,10273.24
+519,Larissa Leão,40,F,SP,10357.33
+520,Antonella Vasconcelos,75,M,MA,14515.42
+521,Caroline Câmara,49,F,SC,14395.62
+522,Kevin Freitas,69,M,SC,18338.75
+523,Luigi Santos,79,M,BA,5618.1
+524,Maria Alice Porto,29,F,PE,3958.6
+525,Dr. João Vitor Souza,48,F,AM,18258.31
+526,Otto Ramos,47,F,AP,7424.82
+527,Calebe Alves,84,M,BA,14881.3
+528,Pedro Lucas da Conceição,65,F,PB,15260.57
+529,Sara da Conceição,72,M,PI,1087.86
+530,Allana Correia,66,F,DF,16704.72
+531,Maria Vitória Azevedo,78,F,PE,4596.18
+532,Amanda Ferreira,41,M,RR,19725.31
+533,Maria Julia da Mota,72,M,CE,9805.48
+534,Dr. Eduardo Alves,59,F,RR,13965.98
+535,Sr. Brayan Ribeiro,44,M,GO,3635.32
+536,Dr. Henry Gabriel Pimenta,27,F,ES,15899.9
+537,Sr. José Miguel Cirino,54,M,TO,13723.53
+538,Lara Peixoto,57,F,SP,16054.6
+539,Helena Silveira,39,M,RS,9854.08
+540,Bryan da Luz,62,F,AL,9914.13
+541,Lorenzo Aparecida,21,F,TO,12523.18
+542,Mateus Farias,29,F,AM,14143.29
+543,Ryan Rodrigues,79,M,PI,16476.66
+544,Maria Helena Aragão,54,F,RR,14431.46
+545,Lorenzo Almeida,19,M,MS,8919.45
+546,Laís Gonçalves,74,F,SC,18667.13
+547,Ester Pereira,48,F,AP,2025.85
+548,Anna Liz Mendonça,49,F,PA,19272.76
+549,Olívia Moura,23,M,MS,16600.43
+550,Luiz Gustavo Aparecida,34,F,CE,3382.95
+551,Luara Brito,59,F,RN,4636.0
+552,Davi Miguel Dias,74,M,RN,9829.68
+553,Pedro Miguel Santos,21,M,PB,15962.61
+554,Evelyn Lopes,83,M,BA,15770.93
+555,Bryan Albuquerque,78,F,AM,11510.52
+556,José Miguel da Cunha,38,M,PB,15283.6
+557,Dr. Vitor Nogueira,27,M,MG,11997.81
+558,Srta. Stella Barros,82,M,AM,8623.94
+559,Manuela Camargo,41,M,PB,6143.09
+560,Alexia Araújo,68,F,DF,4759.3
+561,Sophie Ribeiro,70,F,DF,13558.4
+562,Yago Cardoso,63,F,AP,5770.32
+563,Allana Correia,20,M,MG,8227.7
+564,Evelyn Castro,39,F,PE,11479.0
+565,Rael Guerra,76,F,TO,12661.94
+566,Srta. Milena Dias,86,F,PI,10686.66
+567,Enzo Gabriel Fernandes,43,M,BA,5486.87
+568,Daniela Silva,81,M,SC,6922.81
+569,Felipe Aragão,35,F,RR,4993.08
+570,José Pedro da Rosa,18,F,MG,2476.97
+571,Francisco Costa,71,M,ES,6875.0
+572,Emanuelly Sousa,87,M,BA,17414.67
+573,Camila Pinto,57,M,AM,3836.1
+574,Maria Isis Pastor,84,F,MA,17493.3
+575,Laís da Paz,42,F,AP,9155.37
+576,Letícia Fogaça,20,M,PR,13348.1
+577,Dr. Samuel das Neves,55,M,GO,11093.62
+578,Luigi Pires,20,M,PB,15700.36
+579,Vicente Carvalho,36,F,TO,9578.09
+580,Marcela Cirino,72,F,AC,4623.56
+581,Luiz Otávio Gonçalves,61,F,BA,16635.31
+582,Pietro Cassiano,72,M,CE,14544.51
+583,Maria Luísa da Cruz,52,M,MS,2830.26
+584,Yuri Sales,83,F,SP,11052.43
+585,Thales Aparecida,46,M,PB,4551.13
+586,Raul Carvalho,55,M,MG,7459.4
+587,Vicente Sampaio,77,M,AP,10132.14
+588,Maria Sophia Sales,60,F,AC,10164.81
+589,Yasmin Teixeira,45,M,AC,12131.49
+590,José Miguel Moura,81,M,MG,12510.68
+591,Aylla Ribeiro,90,M,BA,15112.04
+592,Calebe Dias,88,M,RJ,5493.57
+593,Maitê Campos,53,F,MG,1562.87
+594,Olívia Azevedo,68,M,PR,18283.37
+595,Ester Vargas,29,F,AP,12801.19
+596,Léo Silva,82,M,SC,3963.64
+597,Luiz Fernando Albuquerque,55,M,MT,17659.13
+598,Clarice Pacheco,18,F,SP,8563.4
+599,Letícia Souza,58,M,PR,13476.21
+600,Nina Câmara,33,M,RJ,1715.54
+601,Caio Oliveira,70,F,PE,17809.27
+602,Henry Gabriel Moraes,62,F,MS,12816.54
+603,Brenda Guerra,21,M,AM,8987.52
+604,Thales da Rosa,85,M,RN,13312.61
+605,Sra. Zoe Rodrigues,86,M,PA,17160.05
+606,Manuella Azevedo,25,F,PA,6658.29
+607,João Lucas Ferreira,31,F,SE,2888.47
+608,Josué Dias,81,M,BA,16994.51
+609,Beatriz Montenegro,64,F,PA,4982.2
+610,Helena Fonseca,33,F,MA,16422.11
+611,Alice Lima,46,F,TO,19582.56
+612,Thales Lopes,70,F,PR,3330.99
+613,Sr. Yago Fogaça,49,M,RN,13030.37
+614,Sr. Lucas Gabriel Lima,39,F,RR,11377.57
+615,Kamilly Andrade,22,M,AP,3647.82
+616,Lorenzo Cirino,35,M,BA,1238.11
+617,Luísa Monteiro,37,M,RO,6712.81
+618,Murilo Campos,38,M,AP,4688.58
+619,Igor Correia,27,M,TO,9748.54
+620,Sr. Joaquim Vieira,85,F,AP,1898.19
+621,Bella Ramos,49,M,MS,1997.51
+622,Srta. Isabel Pereira,50,F,TO,2013.03
+623,Cecília Casa Grande,68,F,ES,3818.96
+624,Enzo Gabriel Oliveira,70,M,BA,8324.69
+625,Sofia Azevedo,48,F,DF,6722.95
+626,Evelyn das Neves,47,M,RO,5237.7
+627,Larissa das Neves,78,M,RO,9581.25
+628,Sr. André Cirino,23,M,PB,8625.64
+629,Brenda Vasconcelos,77,F,RR,5347.21
+630,Maria Clara Pastor,70,M,DF,8409.62
+631,Anthony Araújo,54,F,SP,14481.21
+632,Luiz Fernando Nunes,27,F,AM,2471.19
+633,Miguel Pires,84,M,GO,18568.78
+634,Joana Leão,47,F,SC,18728.64
+635,Ana Beatriz da Luz,85,M,AC,11435.52
+636,Anna Liz Nogueira,50,F,SE,5455.09
+637,Maya Andrade,19,M,GO,4671.73
+638,Joaquim Carvalho,73,F,MT,1252.42
+639,Nina Mendes,65,F,RO,4800.53
+640,Valentim Silva,87,F,PE,19089.78
+641,Murilo Silva,49,M,CE,7125.01
+642,Laís Andrade,57,M,CE,1297.56
+643,Mariane Farias,48,F,PB,15390.11
+644,Dr. Vitor Cunha,32,M,MS,2798.97
+645,Julia Borges,49,F,ES,18357.93
+646,Vinícius Gonçalves,27,M,AM,18832.75
+647,Vinícius Correia,24,F,TO,10482.17
+648,Srta. Alana Andrade,21,F,PR,15576.89
+649,Alícia Cavalcanti,31,M,AC,6697.6
+650,Maria Clara Rezende,44,M,SE,10364.87
+651,Theo Moraes,61,F,SC,17685.16
+652,Gustavo Costela,64,F,AL,4884.26
+653,Srta. Caroline da Rosa,78,M,AC,7003.31
+654,Lorena Viana,81,F,MA,9909.19
+655,Lucas Sá,84,M,RO,8242.74
+656,Nina Sá,33,F,RN,10360.27
+657,Lucas da Paz,76,M,PR,5065.23
+658,Srta. Gabriela Abreu,61,F,PA,16398.77
+659,Oliver da Rosa,53,M,PA,18472.09
+660,Isabelly da Costa,49,F,GO,9839.65
+661,Josué Vargas,56,M,PB,17287.56
+662,Vinicius Machado,56,F,PA,7423.13
+663,Nathan Martins,71,F,AC,6075.35
+664,Maria Luiza da Costa,69,M,SC,10980.32
+665,Bento Ramos,68,F,MS,6569.46
+666,Vitor Hugo Abreu,88,M,MS,15668.75
+667,Murilo Moreira,90,M,SC,15002.56
+668,Laís Vieira,90,M,MA,18288.18
+669,Sra. Júlia Moreira,59,M,TO,9895.46
+670,Sara Viana,79,F,SP,17093.6
+671,Matheus Montenegro,83,M,MA,14009.36
+672,Ana Lívia das Neves,33,M,AP,3115.15
+673,Rodrigo Rezende,68,M,RN,17607.44
+674,Dra. Isadora Camargo,58,M,MS,7107.79
+675,Clara Pastor,33,M,MT,12072.78
+676,João Garcia,25,M,DF,10258.9
+677,Isaque Dias,30,F,PR,10084.2
+678,Leonardo Nogueira,29,F,AM,8450.61
+679,Ana da Rocha,70,F,SP,15007.24
+680,Manuella da Luz,29,M,DF,7285.83
+681,Apollo Caldeira,23,M,MA,1862.81
+682,Juliana Fogaça,42,F,PB,17330.27
+683,Catarina Barros,74,F,RN,9417.81
+684,Isaque Sousa,50,F,RN,16615.88
+685,Sarah Cavalcanti,67,M,PE,13272.19
+686,Ana Liz Aparecida,82,F,AP,7280.33
+687,Pietro Gomes,60,M,MS,16011.73
+688,Sra. Stephany Vieira,82,M,TO,5527.93
+689,Ana Lívia Gonçalves,78,F,GO,16062.18
+690,Sr. Carlos Eduardo Viana,33,F,DF,12652.01
+691,Manuela Aragão,60,M,MT,11379.68
+692,Gabrielly Sales,68,F,GO,17042.95
+693,Miguel Rodrigues,77,F,SE,5285.29
+694,Ana Beatriz da Rosa,57,F,PA,12539.38
+695,Srta. Luara Rodrigues,88,M,PB,8446.45
+696,Bernardo Rocha,57,M,AP,7209.27
+697,Letícia Correia,33,F,PA,7657.75
+698,Cecilia Câmara,53,M,RO,16057.97
+699,Augusto Cunha,55,F,AC,15170.19
+700,Dra. Luiza Cunha,82,F,AP,8463.32
+701,Otto Rodrigues,78,F,ES,10429.94
+702,Gabriela Ribeiro,69,F,PB,4112.66
+703,Pedro Miguel Mendonça,45,M,MA,18409.42
+704,Maysa Teixeira,90,F,RO,11642.89
+705,Antony Rocha,38,M,CE,10863.88
+706,Letícia Barros,56,F,RO,7634.41
+707,Ester Farias,28,M,PI,15930.7
+708,Juan da Cunha,40,F,DF,10096.22
+709,Dr. Gael Henrique Mendonça,67,M,RS,17845.4
+710,Gael Mendonça,64,F,RO,2293.65
+711,Carlos Eduardo Caldeira,90,F,AL,8158.11
+712,Emanuel Garcia,71,F,PB,4629.56
+713,João Miguel Nascimento,61,F,MS,1024.26
+714,Marina Pastor,28,M,PA,3779.37
+715,Francisco Nogueira,37,F,RJ,13838.78
+716,Rodrigo Sá,36,M,RO,1625.35
+717,Dr. José Pedro Montenegro,27,F,DF,13860.05
+718,Paulo Lima,71,F,AM,7224.98
+719,Sra. Rafaela Silveira,84,M,GO,13047.49
+720,Isabella Mendes,76,M,AM,18928.61
+721,Pietra Costa,20,M,AP,8801.16
+722,Catarina Macedo,45,F,PR,9604.3
+723,Mirella Rodrigues,81,F,PB,16486.16
+724,Ryan da Cunha,81,F,RJ,13021.78
+725,Fernanda Casa Grande,24,F,AM,10383.59
+726,Lucas Gabriel Porto,33,F,PI,19262.2
+727,Pedro Lucas Costa,52,F,SC,6039.22
+728,Nina Sousa,32,F,AL,8923.76
+729,Vinicius Silveira,20,F,RS,9714.0
+730,Ana Cecília Cavalcanti,71,M,PE,15788.74
+731,Calebe Vasconcelos,62,F,SP,12387.28
+732,Gabriela Leão,44,M,PR,9478.32
+733,Alexandre Vasconcelos,37,F,AM,5333.57
+734,Gustavo Henrique Cavalcante,52,M,MS,11643.17
+735,Ryan Peixoto,55,F,PB,4131.07
+736,Sra. Marcela Rios,38,F,RN,9373.72
+737,Maria Sophia Lima,81,M,TO,2718.05
+738,Ian Costa,18,M,PE,5577.03
+739,Agatha Fogaça,23,M,SP,18353.2
+740,Luna Cardoso,82,M,SC,13328.73
+741,Carlos Eduardo Farias,29,F,RJ,10363.08
+742,Ana Sophia Oliveira,58,M,MT,14428.13
+743,Josué Rodrigues,57,F,PA,4212.26
+744,Brayan Cardoso,75,M,MT,4900.18
+745,Nicole Dias,67,F,MA,17896.18
+746,Anna Liz Fogaça,33,M,DF,17751.7
+747,Dra. Gabriela Porto,89,M,MA,18157.25
+748,Davi Lucas Borges,41,M,PR,19359.63
+749,Bento Rodrigues,43,M,MS,9778.68
+750,Luísa da Luz,47,M,PB,10100.71
+751,Vitor Gabriel Fernandes,48,F,RR,18108.24
+752,Anthony Correia,30,F,MT,11706.8
+753,Sr. Valentim Pinto,79,M,SC,18880.0
+754,Maria Clara da Cruz,54,M,PR,9868.36
+755,Ana Laura da Mota,33,M,RN,13960.3
+756,Marcela Martins,64,F,TO,10652.07
+757,Sr. Gael Henrique Mendonça,33,M,PR,19114.0
+758,Olívia Cavalcanti,19,F,RN,18621.92
+759,Eloá Cirino,61,M,MG,3867.31
+760,Letícia Gonçalves,85,M,RS,14055.84
+761,Léo Ferreira,49,F,RN,13562.01
+762,Maria Cecília Duarte,24,F,AP,8576.39
+763,Isaac Aparecida,54,F,TO,10222.35
+764,Benício Machado,58,F,TO,11452.27
+765,Júlia Teixeira,68,F,RO,16770.76
+766,Gustavo Viana,32,M,AP,9106.29
+767,Théo Moraes,23,M,PE,2298.87
+768,Yago Gomes,37,M,RO,10139.06
+769,Elisa Jesus,47,F,BA,16045.58
+770,Giovanna Leão,35,F,BA,8536.37
+771,Davi Lucas Rocha,50,F,AM,16748.65
+772,Sra. Clara Barros,89,F,MT,7075.28
+773,Daniel Correia,77,M,MS,13769.22
+774,Gustavo Gomes,75,F,PE,10556.93
+775,Pedro Miguel Santos,49,F,AL,16134.0
+776,Olívia da Cunha,57,M,ES,13782.56
+777,Dra. Clarice Nogueira,26,M,SP,3970.11
+778,Amanda Ferreira,76,M,AL,13401.25
+779,Pedro Miguel Novais,38,M,AL,13118.58
+780,Gabrielly Macedo,89,M,RN,10151.2
+781,Marcelo Vargas,50,M,RR,4018.66
+782,Vitória Montenegro,28,F,PR,10277.67
+783,Olivia Melo,65,M,DF,6330.43
+784,Yan Silveira,44,M,RN,6833.35
+785,Asafe Macedo,84,F,AP,16022.34
+786,Evelyn Cavalcante,71,F,PI,12504.43
+787,João Felipe Albuquerque,58,M,RO,1361.48
+788,Augusto Santos,63,M,BA,9149.91
+789,Heloisa Vieira,35,M,RO,11669.35
+790,Sra. Stella Moraes,65,F,RN,12116.86
+791,Rhavi Cavalcanti,50,F,GO,10943.79
+792,Sara Casa Grande,90,M,GO,12442.85
+793,Srta. Stephany das Neves,76,F,MS,5371.02
+794,Josué Aragão,87,M,RR,12957.51
+795,Srta. Milena Pires,86,F,MT,4194.29
+796,Dr. Gabriel Caldeira,41,M,CE,8562.3
+797,Dr. Benjamim Barbosa,48,M,AC,10554.88
+798,Erick da Rosa,23,M,TO,2147.83
+799,Ana Cecília Porto,24,M,RJ,12559.11
+800,Srta. Bárbara Sales,84,F,PE,15418.9
+801,Dr. Yan Pinto,22,M,DF,4470.1
+802,Dr. Augusto Nogueira,32,M,MA,14460.03
+803,Natália da Cunha,55,F,TO,8211.12
+804,Felipe Gomes,80,F,DF,17222.58
+805,Enrico Casa Grande,82,F,PB,5161.33
+806,Francisco Novaes,62,M,SC,17936.8
+807,Juan Silva,67,M,SE,14502.44
+808,Daniel Campos,79,F,RO,12287.31
+809,Otávio Aparecida,47,F,MA,14818.69
+810,Dr. Bruno Montenegro,69,M,PE,13975.38
+811,Julia Moreira,80,M,PB,12715.94
+812,Bernardo Vieira,26,F,SP,9265.95
+813,Noah Albuquerque,58,M,MT,9497.14
+814,Vitor da Costa,49,F,PE,18925.21
+815,Carolina Cirino,81,M,SC,17419.22
+816,Gabriela Vargas,77,F,AM,13728.51
+817,Ana Sophia Alves,20,F,RR,3493.65
+818,Dr. Danilo Jesus,68,M,ES,17555.64
+819,Anna Liz Moreira,19,F,SE,5215.9
+820,Sr. Pedro Henrique Costa,83,M,PB,1396.44
+821,Lunna Teixeira,18,F,MG,12537.92
+822,Dr. Paulo Cirino,62,F,GO,6232.94
+823,Ísis Garcia,68,M,MA,9133.99
+824,Rael Sousa,19,M,AM,10428.64
+825,Bernardo Gomes,56,F,SC,17906.06
+826,Pedro Lucas Aragão,26,F,RS,17870.83
+827,Sr. Josué da Cruz,30,M,MG,7843.75
+828,Catarina Pereira,80,M,TO,1865.41
+829,Manuela Cassiano,33,M,SC,19639.9
+830,Henry Gabriel Moreira,27,F,SE,18651.04
+831,Luara Cassiano,54,F,RS,2314.64
+832,Sr. Kaique Azevedo,26,F,RS,8119.98
+833,Melissa Fernandes,40,F,MA,12648.92
+834,Dr. Calebe Pacheco,61,F,MG,17069.34
+835,Maria da Mota,57,M,MS,15042.13
+836,Srta. Gabriela Sá,26,M,MG,17318.64
+837,Samuel Silveira,28,F,AC,12354.3
+838,Mariana Garcia,71,F,RJ,1593.21
+839,Fernando Silveira,63,F,ES,2938.06
+840,Srta. Aurora Martins,37,M,PI,6561.38
+841,Gustavo Henrique Sousa,37,M,PE,18999.73
+842,Juan Pacheco,68,M,PA,14354.88
+843,Maria Júlia Barbosa,21,M,RN,1488.61
+844,Dr. Pedro Lucas Silveira,62,M,SE,5478.77
+845,Anthony Sá,70,F,AL,8447.8
+846,Anthony Sá,28,F,DF,15530.38
+847,Matteo Macedo,30,F,MG,15660.19
+848,Luan Moreira,87,F,AL,8746.55
+849,Maria Luiza Viana,54,F,CE,3195.35
+850,Guilherme Almeida,18,F,DF,11464.37
+851,Kaique da Rocha,42,M,RS,11639.04
+852,Sophie Nascimento,43,F,RO,1717.92
+853,Renan Araújo,62,F,PE,10923.74
+854,Srta. Nicole Pires,75,M,TO,13197.23
+855,Ravi Lucca Sousa,87,M,MS,14216.02
+856,Gabriel da Rocha,33,F,RO,10983.72
+857,Sr. Bento Alves,21,M,RJ,11241.94
+858,Dra. Natália Rocha,63,F,RO,4678.27
+859,Igor da Rocha,37,M,AP,5521.73
+860,Marina Gomes,33,F,RJ,5786.75
+861,Gustavo Peixoto,36,F,RS,5106.35
+862,Aurora Nunes,36,M,RS,18463.12
+863,Rhavi Peixoto,55,M,TO,14493.9
+864,Gustavo Cavalcante,84,M,AL,2370.28
+865,João Miguel Cardoso,18,M,AC,13006.52
+866,Sr. Josué Montenegro,35,F,GO,14504.16
+867,Valentim Camargo,20,F,DF,7095.63
+868,Calebe Sousa,77,F,AL,18364.64
+869,Srta. Vitória Vieira,80,F,RJ,17862.74
+870,Cecilia Gomes,27,M,SE,1449.19
+871,Alexandre Lima,73,M,AL,8424.04
+872,Otávio Pereira,75,F,PA,4958.63
+873,Camila Teixeira,40,F,AM,18043.75
+874,Emanuelly da Cruz,70,M,SP,15670.05
+875,Srta. Isabelly Camargo,27,F,AL,15940.91
+876,Breno Araújo,89,M,MT,5020.86
+877,Cecilia Martins,20,F,PR,12430.43
+878,Emanuelly Pastor,57,F,RR,14712.28
+879,Alícia da Cunha,51,F,SC,4026.77
+880,Srta. Elisa Azevedo,53,M,AP,2159.3
+881,Luiz Felipe Dias,22,F,AM,9988.02
+882,Kamilly Moraes,49,F,SE,5572.28
+883,Laura Moreira,34,F,AC,8517.6
+884,Ana Julia Novais,47,M,ES,6793.81
+885,Fernando Farias,71,F,PB,18750.54
+886,Otto Sampaio,40,M,RN,5140.77
+887,Diogo Aparecida,39,F,MT,7985.72
+888,João Vitor Rezende,62,F,RN,1071.29
+889,Luigi Machado,66,M,PR,17206.17
+890,Kamilly Cirino,30,M,RR,11773.72
+891,Lucca Rezende,86,F,RO,5711.87
+892,Maria Júlia Abreu,90,F,SC,3352.15
+893,Luiz Gustavo Gonçalves,20,F,PI,12258.44
+894,Nathan Albuquerque,64,M,SC,9574.18
+895,Alice Castro,51,M,SP,9170.91
+896,Danilo Montenegro,40,M,RN,6783.89
+897,Giovanna Caldeira,18,M,AP,14242.34
+898,Diogo Câmara,80,M,MS,5377.7
+899,Sra. Agatha Guerra,48,F,MG,11739.95
+900,Lucca Fernandes,63,F,SC,3386.61
+901,Dr. João Pedro Silva,85,M,RN,9586.43
+902,Liz Cassiano,61,F,MT,4740.81
+903,Luiza Monteiro,21,M,ES,9853.34
+904,Dra. Gabriela Caldeira,22,F,AC,9164.38
+905,Dr. Lucca Martins,89,F,AP,13949.6
+906,Sophia Câmara,36,M,AL,7779.57
+907,Srta. Emanuella Silva,71,M,MA,8732.89
+908,Vinicius Barros,52,M,RN,16632.15
+909,Breno Campos,41,F,AC,18181.03
+910,José Ramos,34,M,RN,17191.64
+911,Letícia Garcia,49,M,AP,8782.77
+912,Clarice Pires,18,F,CE,7262.99
+913,Bruno Ferreira,71,F,MS,2059.9
+914,Mariane Vieira,67,F,AL,10782.95
+915,Gabriela Macedo,67,F,DF,4435.76
+916,Sr. Luigi Oliveira,66,F,PR,4419.99
+917,Cauê Nascimento,31,M,RO,11450.18
+918,Diego Cirino,47,F,SP,19669.02
+919,João Lucas Cassiano,80,M,ES,17566.51
+920,Sra. Lunna da Cruz,48,M,MA,9563.17
+921,Arthur Carvalho,50,F,MA,19189.99
+922,Eloá Peixoto,85,F,RN,1887.96
+923,Lorenzo Teixeira,55,F,DF,17374.63
+924,Sr. Thiago Camargo,65,M,MT,8816.2
+925,Benjamim Aragão,31,F,SC,7137.88
+926,Rebeca Montenegro,64,F,MT,12935.01
+927,Pietra Costela,72,F,MG,16475.64
+928,Danilo das Neves,78,F,BA,19329.22
+929,Sr. Raul Câmara,73,F,RO,5850.81
+930,Lucas Gabriel Rezende,60,F,TO,2651.79
+931,Henry Silveira,46,F,BA,13243.22
+932,Sr. Josué Rios,71,F,AM,3942.56
+933,Danilo Peixoto,89,M,RJ,13881.22
+934,Melina Peixoto,89,F,AP,5605.37
+935,Sra. Bella Araújo,60,M,PB,18493.97
+936,Larissa Ramos,32,F,MG,11164.37
+937,Sr. João Lucas da Mata,82,M,MG,9958.2
+938,Pedro Lucas da Paz,61,F,ES,16841.46
+939,Maria Flor da Rosa,73,M,AC,19756.56
+940,Hadassa Andrade,35,F,DF,17590.37
+941,Juliana Albuquerque,24,M,RJ,9478.07
+942,Dra. Ana Vitória Camargo,35,M,MA,5421.99
+943,Benjamim Alves,70,F,GO,7820.49
+944,Nathan Teixeira,58,F,MA,13760.43
+945,João Miguel Guerra,42,M,SC,15889.76
+946,Thales Moraes,87,F,RJ,6715.12
+947,Miguel Almeida,84,F,GO,3863.77
+948,Juan Carvalho,62,F,BA,5080.14
+949,Ravi Novais,42,M,RJ,7826.58
+950,Sra. Nina Câmara,20,F,PI,8905.25
+951,Ayla Porto,19,M,SC,11777.64
+952,Sra. Gabriela Fernandes,51,M,RN,13502.61
+953,Maria Júlia Caldeira,69,F,AC,2581.9
+954,Matteo Cardoso,19,F,MA,9544.38
+955,Lucca Peixoto,60,M,PI,9919.56
+956,Isabelly Casa Grande,53,F,RO,8260.28
+957,Emanuelly Alves,42,F,PB,1214.34
+958,Diego Nogueira,32,F,PB,12269.63
+959,Emanuelly Siqueira,26,F,PI,7733.78
+960,Heloísa Monteiro,59,M,PE,18474.76
+961,Benício Andrade,47,M,PA,15807.11
+962,Luiza da Costa,53,M,AP,15541.42
+963,Yago Nunes,71,F,PB,2286.58
+964,Ana Sophia Sousa,55,M,RO,14064.29
+965,Sra. Maria Eduarda Cavalcante,23,M,PB,5162.27
+966,Luiz Gustavo Dias,22,F,CE,18686.79
+967,Luigi Gonçalves,54,M,TO,17081.8
+968,Mateus Casa Grande,57,M,MS,10073.88
+969,Arthur Viana,31,F,TO,13286.83
+970,Noah Melo,46,M,PB,13628.4
+971,Davi Lucca Aragão,32,M,RR,18648.43
+972,Isadora Garcia,54,M,MA,15456.85
+973,Sra. Jade Fernandes,25,F,AC,19916.57
+974,Dra. Ágatha Cassiano,50,M,RR,2292.06
+975,Vitor Borges,40,F,SP,15810.91
+976,Alana Nogueira,36,M,RJ,17050.06
+977,Fernando Montenegro,30,F,PR,10228.05
+978,Luigi Farias,33,M,PE,7840.81
+979,Helena Nogueira,88,F,PI,8298.23
+980,Clarice Moraes,65,M,RR,18435.59
+981,Gael Henrique Jesus,31,M,RS,2596.62
+982,Caroline Rezende,63,M,PA,5595.63
+983,Evelyn Duarte,34,F,RO,8294.93
+984,Apollo Cassiano,40,F,SP,2249.15
+985,Antônio Mendes,27,F,PA,8919.86
+986,Sofia Pereira,49,F,BA,3501.93
+987,Matheus Mendonça,29,F,SC,6399.58
+988,Enzo Gabriel Porto,19,M,RO,8198.37
+989,Sr. Renan da Mata,36,F,MG,11862.6
+990,Danilo Silveira,62,M,TO,19605.6
+991,Dr. Levi Viana,28,M,MA,4090.14
+992,Dr. Enzo Gabriel Guerra,85,M,AC,13244.51
+993,João Lucas Cirino,54,F,GO,5332.32
+994,Leandro Viana,90,M,MS,13676.89
+995,Alice da Cruz,45,F,RN,13532.92
+996,Maria Eduarda Borges,81,M,AM,5393.5
+997,Maria Flor Jesus,27,F,AP,19506.83
+998,Sr. Benjamin Guerra,75,F,PI,19450.02
+999,Dra. Maitê Ferreira,67,M,RR,5770.98
+1000,Zoe Oliveira,41,M,PI,1336.9
